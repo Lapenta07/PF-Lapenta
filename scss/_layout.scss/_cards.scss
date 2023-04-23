@@ -41,7 +41,7 @@
       
     }
 
-    @media (width <= 768px) {
+    @media (width <= 830px) {
       .Continente{
       display: block;
       margin-bottom: 60px;
@@ -181,7 +181,7 @@
     box-shadow: 0 5px 10px grey;
     }
 
-    @media (width <= 450px) {
+    @media (width <= 830px) {
     .card .back{
       transform: perspective(600px) rotateY(180deg);
       background: $CardBack;

@@ -151,7 +151,7 @@ nav {
     row-gap: 1rem;
   }
 }
-@media (width <= 450px) {
+@media (width <= 830px) {
   nav {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -207,7 +207,7 @@ nav ul a li:focus {
   margin-top: 20px;
 }
 
-@media (width <= 800px) {
+@media (width <= 830px) {
   #logo img {
     width: 100%;
   }
@@ -267,7 +267,7 @@ nav ul a li:focus {
     gap: 3em;
   }
 }
-@media (width <= 768px) {
+@media (width <= 830px) {
   .Continente {
     display: block;
     margin-bottom: 60px;
@@ -414,7 +414,7 @@ nav ul a li:focus {
           box-shadow: 0 5px 10px grey;
 }
 
-@media (width <= 450px) {
+@media (width <= 830px) {
   .card .back {
     -webkit-transform: perspective(600px) rotateY(180deg);
             transform: perspective(600px) rotateY(180deg);
@@ -630,7 +630,7 @@ form button:focus {
     width: 13rem;
   }
 }
-@media (width <= 425px) {
+@media (width <= 830px) {
   .tarjetas {
     width: 0px;
     height: 0px;
@@ -659,7 +659,7 @@ form button:focus {
   width: 90%;
 }
 
-@media (width <= 425px) {
+@media (width <= 830px) {
   .ciudades {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -677,7 +677,7 @@ form button:focus {
   width: 66%;
 }
 
-@media (width <= 425px) {
+@media (width <= 830px) {
   .texto-ciudad {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -695,7 +695,7 @@ form button:focus {
     width: 100%;
   }
 }
-@media (width <= 425px) {
+@media (width <= 830px) {
   .texto-ciudad p {
     text-align: center;
   }
@@ -705,7 +705,7 @@ form button:focus {
   border-radius: 0px 0px 0px 0px;
 }
 
-@media (width <= 425px) {
+@media (width <= 830px) {
   .foto-ciudad {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
@@ -732,7 +732,7 @@ footer {
   bottom: 0;
 }
 
-@media (width <= 450px) {
+@media (width <= 830px) {
   footer {
     display: inline-block;
     text-align: center;

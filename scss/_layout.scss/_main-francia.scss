@@ -45,7 +45,7 @@
   }
   }
 
-  @media (width <= 425px){
+  @media (width <= 830px){
     .tarjetas{
     width: 0px;
     height: 0px;
@@ -73,7 +73,7 @@
     width: 90%;
   }
 
-  @media (width <= 425px){
+  @media (width <= 830px){
     .ciudades{
     flex-direction: column;
     border: 1px solid white;
@@ -90,7 +90,7 @@
 
  
 
-  @media (width <= 425px){
+  @media (width <= 830px){
     .texto-ciudad{
       display: flex;
       flex-direction: column;
@@ -100,7 +100,7 @@
   }
   }
 
-  @media (width <= 425px){
+  @media (width <= 830px){
   .texto-ciudad p{
     text-align: center; }
 }
@@ -110,7 +110,7 @@
     border-radius: 0px 0px 0px 0px;
   }
 
-  @media (width <= 425px){
+  @media (width <= 830px){
     .foto-ciudad{
       justify-content: center;
       

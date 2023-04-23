@@ -30,7 +30,7 @@ nav{
   }
 }
 
-@media (width <= 450px){
+@media (width <= 830px){
   nav{
     display: flex;
     flex-wrap: wrap;
@@ -82,7 +82,7 @@ nav ul a li:focus{
     
 }
 
-@media (width <= 800px){
+@media (width <= 830px){
   #logo img{
     width: 100%;
     
