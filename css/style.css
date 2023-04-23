@@ -221,7 +221,7 @@ nav ul a li:focus {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin: 10rem auto;
+  margin: 10rem auto 0rem auto;
   min-height: 60vh;
   gap: 3em;
 }
